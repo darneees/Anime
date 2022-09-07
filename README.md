@@ -34,7 +34,7 @@
 
 ## Deployed
 
- 
+https://darneees.github.io/Anime/
 
 <h3 align="center">
   
